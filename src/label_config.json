@@ -1,0 +1,42 @@
+{
+  "label_list": [
+    "O",
+    "B-PARTY",
+    "I-PARTY",
+    "B-DATE",
+    "I-DATE",
+    "B-AMOUNT",
+    "I-AMOUNT",
+    "B-TERM",
+    "I-TERM",
+    "B-JURISDICTION",
+    "I-JURISDICTION"
+  ],
+  "label2id": {
+    "O": 0,
+    "B-PARTY": 1,
+    "I-PARTY": 2,
+    "B-DATE": 3,
+    "I-DATE": 4,
+    "B-AMOUNT": 5,
+    "I-AMOUNT": 6,
+    "B-TERM": 7,
+    "I-TERM": 8,
+    "B-JURISDICTION": 9,
+    "I-JURISDICTION": 10
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-PARTY",
+    "2": "I-PARTY",
+    "3": "B-DATE",
+    "4": "I-DATE",
+    "5": "B-AMOUNT",
+    "6": "I-AMOUNT",
+    "7": "B-TERM",
+    "8": "I-TERM",
+    "9": "B-JURISDICTION",
+    "10": "I-JURISDICTION"
+  },
+  "num_labels": 11
+}
