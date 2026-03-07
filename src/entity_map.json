@@ -1,0 +1,49 @@
+{
+  "PARTY": [
+    "parties",
+    "licensor",
+    "licensee",
+    "counterparty",
+    "document name",
+    "license grant"
+  ],
+  "DATE": [
+    "effective date",
+    "expiration date",
+    "renewal term",
+    "notice period",
+    "agreement date"
+  ],
+  "AMOUNT": [
+    "revenue",
+    "payment",
+    "price",
+    "fee",
+    "cap on liability",
+    "minimum commitment",
+    "volume restriction",
+    "post-termination",
+    "uncapped liability",
+    "liquidated damages",
+    "most favored nation"
+  ],
+  "JURISDICTION": [
+    "governing law",
+    "jurisdiction"
+  ],
+  "TERM": [
+    "termination",
+    "indemnification",
+    "confidentiality",
+    "non-compete",
+    "ip ownership",
+    "warranty",
+    "non-disparagement",
+    "audit rights",
+    "exclusivity",
+    "covenant not to sue",
+    "no-solicit of employees",
+    "no-solicit of customers",
+    "competitive restriction"
+  ]
+}
